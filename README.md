@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌱I am currently learning FLUTTER and JavaScript <br>🔭I am interested in exploring WEB3 and AI/ML<br>👯I am open for collaboration<br>
+🌱I am currently learning FLUTTER and JavaScript <br>🔭I am interested in exploring WEB3 and AI/ML<br>👯I am open for collaboration<br> 📫How to reach me: sendtosohil@gmail.com <br>
 
 
 ## 🌐 Socials:
